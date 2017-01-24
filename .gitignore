@@ -1,0 +1,4 @@
+*.lock
+*.out
+*.bz2
+target/

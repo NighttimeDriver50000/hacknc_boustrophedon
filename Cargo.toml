@@ -1,0 +1,9 @@
+[package]
+name = "hacknc_boustrophedon"
+version = "0.1.0"
+authors = ["Chris McKinney <chrismckinney@me.com>",
+           "Alyssa Shofner <alyssa.shofner@icloud.com>"]
+
+[dependencies]
+image = "0.10.3"
+petgraph = "0.4.1"
